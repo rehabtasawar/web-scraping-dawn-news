@@ -23,4 +23,4 @@ A Python script to scrape articles from the Dawn News website. It gathers articl
 
 Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/dawn-news-scraper.git
+   git clone https://github.com/rehabtasawar/web-scraper-dawn-news.git
